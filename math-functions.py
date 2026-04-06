@@ -25,4 +25,5 @@ def main():
     difference(5, 6)
     product(5.0, 6)
     
-main()
+if __name__ == "__main__":
+    main()
